@@ -1,13 +1,11 @@
 # 2020-KNU-codefair  
-# 이제는 CCTV도 알고리즘이다! : 야간 및 주간에 최적화 된 Super CCTV 
-# 2020 KNU 코드페어 제출용 Repository
-팀명 : HBU(호반우)
+## 이제는 CCTV도 알고리즘이다! : 야간 및 주간에 최적화 된 Super CCTV 
+## 팀명 : HBU(호반우)
 
 주간모드 코드와 야간모드 코드로 구별되어 있습니다.
 모든 코드는 파이썬으로 작성되었으며, Open CV를 기반으로구현했습니다.
 
-![Untitled Diagram (2)](https://user-images.githubusercontent.com/54931018/99875026-b4014800-2c2f-11eb-8453-d89da11fc8b6.png)
-
+![Uploading 프레젠테이션1.png…]()
 
 # 기존의 문제점 및 발전 방안
 
